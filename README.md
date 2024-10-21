@@ -35,4 +35,4 @@ A software developer passionate about web and mobile development, specializing i
 
 
 ### Contact:
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/SalavessaMota) | [Email](mailto:nunosalavessa@hotmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nunosalavessamota/) | [Email](mailto:nunosalavessa@hotmail.com)
