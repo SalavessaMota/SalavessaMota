@@ -35,7 +35,7 @@ A software developer passionate about web and mobile development, specializing i
 ### Notable Projects:
 - **[AirCinelMVC](https://github.com/SalavessaMota/AirCinelMVC)**: An airline management system built with ASP.NET Core MVC, integrating seat selection, user roles, flight management, and SQL Server with Entity Framework for database interactions.
   
-- **[letsDonate](https://github.com/SalavessaMota/letsDonate)**: A donation platform built with Flask that encourages giving unused items a second life by donating them to those in need. Features user registration, item listing, contact information sharing, and item management. [Watch Demo](https://www.youtube.com/watch?v=o347l4wsz5U). Technologies: Python (Flask), SQLite, Jinja, Bootstrap.
+- **[letsDonate](https://github.com/SalavessaMota/letsDonate)**: A donation platform built with Flask that encourages giving unused items a second life by donating them to those in need. Features user registration, item listing, contact information sharing, and item management. [Watch Demo](https://www.youtube.com/watch?v=o347l4wsz5U).
 
 
 ### Contact:
