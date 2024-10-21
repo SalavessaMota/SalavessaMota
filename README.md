@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Mota!
+## Hi there 👋, I'm Nuno Salavessa Mota !
 A software developer passionate about web and mobile development, specializing in **ASP.NET Core MVC** and **.NET MAUI**.
 
 🌍 Based in Lisbon, Portugal  
