@@ -16,6 +16,7 @@ A software developer passionate about web and mobile development, specializing i
   
 <br><br>
 
+
 ### Technologies:
 <div align='center' style="display: flex;flex-flow: row wrap; justify-content: center;">
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
@@ -30,9 +31,12 @@ A software developer passionate about web and mobile development, specializing i
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 </div>
 
+
 ### Notable Projects:
-- **[AirCinelMVC](https://github.com/SalavessaMota/AirCinelMVC)**: An airline management system built with ASP.NET Core MVC, integrating seat selection, user roles, and flight management.
+- **[AirCinelMVC](https://github.com/SalavessaMota/AirCinelMVC)**: An airline management system built with ASP.NET Core MVC, integrating seat selection, user roles, flight management, and SQL Server with Entity Framework for database interactions.
+  
 - **[letsDonate](https://github.com/SalavessaMota/letsDonate)**: A donation platform built with Flask that encourages giving unused items a second life by donating them to those in need. Features user registration, item listing, contact information sharing, and item management. [Watch Demo](https://www.youtube.com/watch?v=o347l4wsz5U). Technologies: Python (Flask), SQLite, Jinja, Bootstrap.
+
 
 ### Contact:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nunosalavessamota/) | [Email](mailto:nunosalavessa@hotmail.com)
