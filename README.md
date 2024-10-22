@@ -1,20 +1,17 @@
 ## Hi there 👋, I'm Nuno Salavessa Mota !
 A software developer passionate about web and mobile development, specializing in **ASP.NET Core MVC** and **.NET MAUI**.
 
+
 🌍 Based in Lisbon, Portugal  
 💼 Currently finalizing a **CET in Information Systems and Programming (TPSI)** at CINEL in Lisbon
 
+
 ![visitors](https://komarev.com/ghpvc/?username=SalavessaMota&color=blue)
 
-<br><br>
 
 <div align='center'>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SalavessaMota&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <br><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalavessaMota&layout=compact&langs_count=16&theme=dracula&count_private=true"/>
 </div>
-  
-<br><br>
 
 
 ### Technologies:
