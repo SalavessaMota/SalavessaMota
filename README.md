@@ -34,7 +34,7 @@ A software developer passionate about web and mobile development, specializing i
   
 - **[letsDonate](https://github.com/SalavessaMota/letsDonate)**: A donation platform built with Flask that encourages giving unused items a second life by donating them to those in need. Features user registration, item listing, contact information sharing, and item management. [Watch Demo](https://www.youtube.com/watch?v=o347l4wsz5U).
 
-- **[Employee Management](https://github.com/SalavessaMota/employee-management-system)**: A Python program to manage employee data using SQLite3 with a text-based interface. Allows for adding, updating, and removing employee records, listing all employees, and generating a PDF with employee information. Built with a focus on simplicity and efficiency, and relies on libraries such as FPDF, Tabulate, and PyFiglet. [Watch Demo]((https://www.youtube.com/watch?v=aDYLokSWBA0)).
+- **[Employee Management](https://github.com/SalavessaMota/employee-management-system)**: A Python program to manage employee data using SQLite3 with a text-based interface. Allows for adding, updating, and removing employee records, listing all employees, and generating a PDF with employee information. Built with a focus on simplicity and efficiency, and relies on libraries such as FPDF, Tabulate, and PyFiglet. [Watch Demo](https://www.youtube.com/watch?v=aDYLokSWBA0).
 
 
 ### Contact:
