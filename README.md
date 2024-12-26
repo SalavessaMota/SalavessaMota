@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Nuno Salavessa Mota !
-A software developer passionate about web and mobile development, specializing in **ASP.NET Core MVC** and **.NET MAUI**.
+A software developer passionate about creating innovative solutions with **ASP.NET Core MVC** and **.NET MAUI**, driven by a focus on scalability, user experience, and modern technologies.
 
 
 🌍 Based in Lisbon, Portugal  
