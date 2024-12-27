@@ -5,6 +5,7 @@ A software developer passionate about creating innovative solutions with **ASP.N
 🌍 Based in Lisbon, Portugal  
 💼 Currently finalizing a **CET in Information Systems and Programming (TPSI)** at CINEL in Lisbon
 
+---
 
 ![visitors](https://komarev.com/ghpvc/?username=SalavessaMota&color=blue)
 
@@ -28,6 +29,7 @@ A software developer passionate about creating innovative solutions with **ASP.N
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 </div>
 
+---
 
 ### Notable Projects:
 - **[AirCinelMVC](https://github.com/SalavessaMota/AirCinelMVC)**: A comprehensive airline management system built with ASP.NET Core MVC, featuring seat selection, role-based access control, and flight management. The project is designed with key patterns like Dependency Injection and Repository to enhance maintainability and scalability. It uses SQL Server with Entity Framework for database interactions and integrates with Azure for web app deployment and blob storage management.
@@ -42,6 +44,7 @@ A software developer passionate about creating innovative solutions with **ASP.N
 
 - **[Employee Management](https://github.com/SalavessaMota/EmployeeManagement)**: A Python-based employee management system, developed during the CS50P course, using SQLite3 for data storage and a command-line interface. It provides functionalities like adding, updating, and removing employee records, listing all employees, and generating PDF reports. This project built on my prior experience, allowing me to deepen my understanding of database operations and Python's versatility. [Watch Demo](https://www.youtube.com/watch?v=aDYLokSWBA0).
 
+---
 
 ### Contact:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nunosalavessamota/) | [Email](mailto:nunosalavessa@hotmail.com)
