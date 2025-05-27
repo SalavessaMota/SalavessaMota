@@ -1,9 +1,10 @@
-## Hi there 👋, I'm Nuno Salavessa Mota !
-A software developer passionate about creating innovative solutions with **ASP.NET Core MVC** and **.NET MAUI**, driven by a focus on scalability, user experience, and modern technologies.
+## 👋 Hi, I'm Nuno Salavessa Mota
 
+I'm a software developer passionate about creating practical, scalable, and user-focused applications using **ASP.NET Core MVC** and **.NET MAUI**.
 
+🧠 I recently completed a **CET in Information Systems and Programming (TPSI)** at CINEL (final grade: 19/20)  
 🌍 Based in Lisbon, Portugal  
-💼 Currently finalizing a **CET in Information Systems and Programming (TPSI)** at CINEL in Lisbon
+💼 Actively seeking my first opportunity as a full-time **Developer**
 
 ---
 
